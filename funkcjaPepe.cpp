@@ -1,5 +1,6 @@
 int FunkcjaPepe()
 {
+int x, y;
 cout << "To jest moja funkcja"<<endl;
 cout <<"Ale co ona robi?"<<endl;
 cout <<"Podaj jakas liczbe calkowita"<<endl;
